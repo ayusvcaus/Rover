@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+cloudpassage-ayu,com.cloudpassge.ayu,Rover,15,183,2,18,5,33,3,14,1,6
+cloudpassage-ayu,com.cloudpassge.ayu,Plateau,7,20,0,0,3,6,1,2,1,2
+cloudpassage-ayu,com.cloudpassge.ayu,Utils.new HashMap() {...},0,31,0,0,0,6,0,1,0,1
+cloudpassage-ayu,com.cloudpassge.ayu,Deployer,31,262,0,22,9,57,1,15,1,4
+cloudpassage-ayu,com.cloudpassge.ayu,Operator,49,3,2,0,9,1,3,1,2,1
+cloudpassage-ayu,com.cloudpassge.ayu,Utils.new HashMap() {...},0,31,0,0,0,6,0,1,0,1
+cloudpassage-ayu,com.cloudpassge.ayu,Utils,3,79,0,26,1,13,1,17,1,4
