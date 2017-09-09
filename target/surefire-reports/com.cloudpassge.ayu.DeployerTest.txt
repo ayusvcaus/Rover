@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.cloudpassge.ayu.DeployerTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.083 sec - in com.cloudpassge.ayu.DeployerTest
